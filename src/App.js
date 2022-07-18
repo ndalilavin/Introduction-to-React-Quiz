@@ -21,7 +21,7 @@ const userNames = users.map((user) => {
 function Child() {
   return <div>This is children content</div>;
 }
-// /**
+
 //   Challenge: Uncomment this code to complete quiz
 
 // function Child() {
@@ -53,7 +53,7 @@ function Child() {
 //   );
 // }
 // Uncomment this to tackle quiz
-// **/
+
 
 // Comment out after completion
 function Parent() {
